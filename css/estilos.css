@@ -4,3 +4,16 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 20px;
 }
+
+.container {
+    width: 90%;
+    height: 300px;
+    margin: 0;
+    padding: auto;
+    border: 1px solid green;
+}
+
+h1 {
+    font-size: 2rem;
+    color: brown;
+}
