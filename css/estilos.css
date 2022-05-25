@@ -1,6 +1,11 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
 body {
     text-align: center;
-    color: violet;
+    color: rgb(20, 19, 20);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 20px;
 }
@@ -8,12 +13,25 @@ body {
 .container {
     width: 90%;
     height: 300px;
-    margin: 0;
+    margin: 40px;
     padding: auto;
-    border: 1px solid green;
+    border: 2px solid rgb(69, 73, 69);
 }
 
 h1 {
     font-size: 2rem;
     color: brown;
+}
+
+h2 { 
+    color: rgb(22, 21, 21);
+    text-align: center;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.cabecera {
+    background-color: rgb(183, 181, 184);
+    border-radius: 5px;
+
 }
