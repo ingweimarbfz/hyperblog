@@ -5,7 +5,11 @@
 
 body {
     text-align: center;
+<<<<<<< HEAD
     color: rgb(130, 72, 196);
+=======
+    color: rgb(250, 164, 35);
+>>>>>>> cabecera
     font-family: 'Courier New', Courier, monospace;
     margin-top: 20px;
 }
