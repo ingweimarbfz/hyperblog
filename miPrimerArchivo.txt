@@ -5,3 +5,5 @@ Bienvenidos al curso de Git y GitHub de Platzi. Soy Weimar Barraza Florez
 Hoy hablaremos de la historia de su vida 
 
 Cambios en su vida laboral
+
+Veremos sus logros de ingenieria
