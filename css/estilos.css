@@ -18,6 +18,14 @@ body {
     border: 2px solid rgb(69, 73, 69);
 }
 
+.container__imagen {
+   width: 400px; 
+}
+
+.imagen {
+    width: 200px;
+}
+
 h1 {
     font-size: 2rem;
     color: brown;
